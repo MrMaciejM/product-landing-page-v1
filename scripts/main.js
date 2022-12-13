@@ -18,7 +18,7 @@ const thumbImages = [
 for (const image of thumbImages) {
   //const newImage = document.createElement("img");
   newImage = document.querySelector(".thumb-all");
-  newImage.setAttribute("src", `../images/${image}`);
+  newImage.setAttribute("src", `../product-landing-page-v1/images/${image}`);
   thumbBar.appendChild(newImage);
   newImage.addEventListener("click", (e) => (bigImg.src = e.target.src));
 }
