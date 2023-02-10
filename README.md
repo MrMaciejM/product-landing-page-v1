@@ -4,7 +4,7 @@
 
 In this project, I have built a product landing page from scratch and made it responsive for mobile devices, additionally made it more responsive on older devices that had issues with displaying my page.
 
-I have used knowledge prior to any bootcamps, and this project was built from all my self-taught knowledge from various sources: YouTube, Googling, Udemy, LinkedIn Learning and so forth.
+I have used knowledge prior to any bootcamps, and this project was built from all my self-taught knowledge from various sources: YouTube, Googling, Udemy, LinkedIn Learning, freeCodeCamp, Odin Project and so forth.
 
 ## Link to deployed site
 
